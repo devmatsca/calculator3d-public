@@ -52,6 +52,11 @@ The Service Provider does not use the Application to knowingly solicit data from
 
 The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (dev.matsca@gmail.com) so that they will be able to take the necessary actions.
 
+**Premium option**
+
+Purchasing the Premium option grants a permanent unlock of the listed features at the time of purchase.
+This access is granted for the lifetime of the app and is subject to future operating system compatibility.
+
 **Security**
 
 The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
